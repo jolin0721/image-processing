@@ -1,2 +1,2 @@
 # image-processing
-image processing Matlab code including compression and recognition
+image processing Matlab code including compression and recognition.
